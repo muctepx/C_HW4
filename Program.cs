@@ -9,7 +9,7 @@ namespace Sem_4
             int[] arr1 = { 1, 2, 5, 7, 9, 11, 12, 14, 15, 16, 18, 19, 20, 22, 25 };
             int target1 = 32;
 
-            HW.FindSumOfThreeNums1(arr1, target1);
+            HW.FindSumOfThreeNums(arr1, target1);
 
 
 
