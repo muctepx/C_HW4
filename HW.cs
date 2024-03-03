@@ -12,7 +12,7 @@ namespace Sem_4
 
     internal class HW
     {
-        public static void FindSumOfThreeNums1(int[] arr, int target)
+        public static void FindSumOfThreeNums(int[] arr, int target)
         {
             for (int i = 0; i < arr.Length - 1; i++)
             {
